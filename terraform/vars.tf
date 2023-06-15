@@ -7,6 +7,3 @@ variable "vpc_main_cidr" {
 variable "public_subnet_cidr" {
   type = string
 }
-variable "jenkins_instance_type" {
-  type = string
-}
